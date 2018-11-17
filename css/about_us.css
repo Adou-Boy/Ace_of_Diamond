@@ -1,0 +1,17 @@
+
+.about_us_item {
+  background-image: url(../assets/ABOUT-bannerimg.jpg);
+}
+
+.about_us_part_1 div {
+  width: calc(50% - 20px);
+  padding: 10px;
+}
+
+.about_us_part_1 img {
+  padding-top: 80px;
+}
+
+.about_us_part_1 p {
+  text-align: justify;
+}

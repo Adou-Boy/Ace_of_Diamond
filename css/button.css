@@ -1,0 +1,10 @@
+.btn a {
+  border: 1px solid #ffffff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 14px;
+  color: #000000;
+  background: linear-gradient(-180deg, #959294 0%, rgba(255,255,255,0.83) 49%, #959294 99%);
+}

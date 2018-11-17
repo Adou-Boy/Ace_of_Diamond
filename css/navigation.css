@@ -1,0 +1,95 @@
+.main_menu {
+  background: linear-gradient(-180deg, #959294 0%, rgba(255,255,255,0.75) 49%, #959294 99%);
+  border-radius: 12px 12px 0 0;
+  padding: 10px 20px;
+}
+
+.main_menu li {
+  list-style-type: none;
+  display: inline-block;
+  position: relative;
+  padding: 0 25px;
+}
+
+.main_menu li a {
+  text-decoration: none;
+  color: #000000;
+  display: inline-block;
+  position: relative;
+  line-height: 20px;
+  padding: 5px 0;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  left: 2px;
+  min-width: 650px;
+  top: 40px;
+  padding-bottom: 300px;
+  background: linear-gradient(-180deg, #878486 0%, #AFAFAF 51%, #A09E9F 98%);
+  z-index: 1;
+}
+
+.submenu header {
+  padding-left: 25px;
+}
+
+.submenu_content {
+  display: flex;
+  position: absolute;
+  right: 40px;
+  width: 100%;
+}
+
+.links {
+  text-transform: uppercase;
+}
+
+.links:after {
+    content: "";
+    position: absolute;
+    border-right: 1px solid #000000;
+    opacity: 0.4;
+    padding: 20px 15px 40px 15px;
+    top: -20px;
+}
+
+.main_menu li:last-child .links::after {
+  content: none;
+}
+
+.main_menu li:hover .submenu {
+  display: block;
+}
+
+.types {
+  width: 20%;
+  text-transform: uppercase;
+}
+
+.normal_rings {
+  width: 33%;
+}
+
+.diamond_rings {
+  width: 45%;
+}
+
+.search {
+  position: absolute;
+  right: 100px;
+  top: 106px;
+}
+
+#search_box {
+  position: relative;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+.search img {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}

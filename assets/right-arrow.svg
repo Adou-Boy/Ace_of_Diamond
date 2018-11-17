@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>right-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Products" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1686.000000, -2558.000000)" id="Group-29" fill="#F0F0F0">
+            <g transform="translate(1674.000000, 2547.000000)">
+                <path d="M14.9852749,16.6584302 L11.4326743,13.0749505 C11.3343424,12.9756062 11.1739996,12.9751 11.0747819,13.0734319 C10.9755642,13.1717637 10.9749314,13.3321065 11.0732632,13.4311977 L14.7678566,17.1579355 C14.8140485,17.2045071 14.8735285,17.2291862 14.9338944,17.2324754 C14.9514853,17.2334878 14.9690761,17.2323488 14.9864139,17.2298165 C15.0755074,17.236272 15.1457444,17.2121003 15.1983905,17.1597073 L18.9250018,13.4648608 C19.024346,13.366529 19.0249788,13.2063127 18.9265204,13.1069684 C18.8280621,13.0076242 18.6678458,13.007118 18.5687546,13.1055764 L14.9852749,16.6584302 Z" id="right-arrow" transform="translate(14.999939, 15.116452) rotate(-90.000000) translate(-14.999939, -15.116452) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

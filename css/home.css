@@ -1,0 +1,154 @@
+.part_1 {
+  border: 2px solid #666666;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.description {
+  width: 55%;
+  color: #fff;
+  padding-bottom: 450px;
+  position: relative;
+}
+
+.match {
+  width: 600px;
+  margin: auto;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  transform: translate(30%, -10%);
+}
+
+.perfect {
+  font-size: 40px;
+}
+
+.collection {
+  padding-left: 10px;
+}
+
+.description .btn {
+  position: absolute;
+  top: 70%;
+  left: 20%;
+  transform: translate(70%, -10%);
+}
+
+.part_2 {
+  padding-top: 20px;
+}
+
+.part_3 {
+  padding-top: 30px;
+  color: #F0F0F0;
+  padding: 10px;
+}
+
+.part_3_item {
+  width: calc(33.33% - 10px);
+  position: relative;
+}
+
+.part_3_item h3 {
+  text-align: center;
+}
+
+.part_3_item .diamond-icon {
+  width: 25px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.diamond-icon img {
+  width: 100%;
+}
+
+.part_3_item .btn {
+  position: relative;
+  width: 300px;
+  margin: auto;
+  padding-left: 90px;
+}
+
+.part_3_item h3 {
+  font-size: 25px;
+}
+
+.part_3_item figure a::after,
+.part_3_item figure a::before,
+.button::after,
+.button::before {
+    content: "";
+    position: absolute;
+    border-top: 2px solid #666666;
+    opacity: 0.4;
+}
+
+.part_3_item figure a::after,
+.part_3_item figure a::before {
+  padding: 0 80px;
+  top: 7px;
+}
+
+.part_3_item figure a::before,
+.button::before {
+  right: 30px;
+}
+
+.part_3_item figure a::after,
+.button::after {
+  left: 30px;
+}
+
+.button::after,
+.button::before {
+  padding: 0 60px;
+  top: 10px;
+}
+
+.button::before {
+  right: 220px;
+}
+
+.button::after {
+  left: 220px;
+}
+
+.submit {
+  margin-left: 15px;
+}
+
+.ring_image {
+  width: 150px;
+  margin: auto;
+}
+
+.ring_image img,
+.ring_image figcaption {
+  width: 100%;
+}
+
+.ring_image figcaption {
+  padding-left: 20px;
+  padding-bottom: 35px;
+  font-size: 30px;
+}
+
+.newsletter {
+  padding: 20px 0 30px 0;
+}
+
+.newsletter input {
+  width: 400px;
+  padding: 8px 0;
+  border-radius: 5px;
+}
+
+.part_3_item .last {
+    padding-bottom: 130px;
+}
+
+.part_3_item .newsletter {
+  padding-bottom: 158px;
+}

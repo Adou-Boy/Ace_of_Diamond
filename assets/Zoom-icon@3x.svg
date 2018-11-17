@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="35px" viewBox="0 0 36 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Zoom-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Product-Single" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-908.000000, -821.000000)" id="Zoom-icon" fill="#F0F0F0">
+            <g transform="translate(908.000000, 821.000000)">
+                <path d="M13.75,27.5 C6.25,27.5 0,21.25 0,13.75 C0,6.25 6.25,0 13.75,0 C21.25,0 27.5,6.25 27.5,13.75 C27.5,21.25 21.25,27.5 13.75,27.5 Z M13.75,2.5 C7.5,2.5 2.5,7.5 2.5,13.75 C2.5,20 7.5,25 13.75,25 C20,25 25,20 25,13.75 C25,7.5 20,2.5 13.75,2.5 Z" id="Fill-1"></path>
+                <path d="M23.75,22 L34.75,33 C35.25,33.5 35.25,34.25 34.75,34.75 C34.5,35 34,35 33.75,35 C33.5,35 33,35 32.75,34.75 L21.75,23.75 L23.75,22 Z" id="Fill-3"></path>
+                <path d="M17.5,15 L10,15 C9.25,15 8.75,14.5 8.75,13.75 C8.75,13 9.25,12.5 10,12.5 L17.5,12.5 C18.25,12.5 18.75,13 18.75,13.75 C18.75,14.5 18.25,15 17.5,15 Z" id="Fill-4"></path>
+                <path d="M13.75,18.75 C13,18.75 12.5,18.25 12.5,17.5 L12.5,10 C12.5,9.25 13,8.75 13.75,8.75 C14.5,8.75 15,9.25 15,10 L15,17.5 C15,18.25 14.5,18.75 13.75,18.75 Z" id="Fill-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+.slideshow {
+  position: relative;
+  width: calc(45% - 40px);
+  padding: 10px;
+}
+
+.slideshow img {
+  width: 100%;
+  position: absolute;
+  height: auto;
+}

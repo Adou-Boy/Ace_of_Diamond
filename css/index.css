@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+.container {
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
+
+section, footer {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.item {
+  display: flex;
+  width: calc(33.33% - 20px);
+  margin: 5px 10px;
+  border: 2px solid #666666;
+  border-radius: 6px;
+  color: #F0F0F0;
+  padding: 10px;
+}
+
+.item img {
+  width: 150px;
+  height: 150px;
+}
+
+.common {
+  background-position: right center;
+  box-sizing: border-box;
+  padding-left: 100px;
+  border: 2px solid #979797;
+  border-radius: 6px;
+}
+
+.about_us_wrapper,
+.contact_wrapper {
+  color: #F0F0F0;
+}
+
+.about_us_wrapper h3,
+.contact_wrapper h3 {
+  font-size: 30px;
+}
+
+.about_us_wrapper p,
+.contact_wrapper p {
+  font-size: 18px;
+}
